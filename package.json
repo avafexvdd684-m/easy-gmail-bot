@@ -1,9 +1,10 @@
 {
   "name": "easy-gmail-seller-bot",
   "version": "1.0.0",
-  "description": "24/7 Telegram Bot for buying Gmails with bKash withdrawal and referral bonus",
+  "description": "24/7 Telegram Bot for buying Gmails",
   "main": "bot.js",
   "scripts": {
+    "build": "echo \"Build OK\"",
     "start": "node bot.js"
   },
   "dependencies": {
